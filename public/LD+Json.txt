@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FurnitureStore",
+  "name": "Chinbozor",
+  "image": "https://chinbozor.uz/favicon.png",
+  "@id": "chinbozor.uz",
+  "url": "https://chinbozor.uz",
+  "telephone": "+998 98 117 89 98",
+  "priceRange": "$$",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "Tashkent",
+    "addressLocality": "Tashkent",
+    "postalCode": "100000",
+    "addressCountry": "UZ"
+  },
+  "openingHoursSpecification": {
+    "@type": "OpeningHoursSpecification",
+    "dayOfWeek": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "opens": "00:00",
+    "closes": "23:59"
+  } 
+}
+</script>

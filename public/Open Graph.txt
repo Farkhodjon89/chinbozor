@@ -1,0 +1,14 @@
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://chinbozor.uz">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Купить кухонный набор и аксессуары в Ташкенте | Сhinbozor.uz">
+<meta property="og:description" content="Хотите подарить или купить кухонный набор или аксессуары для кухни в Ташкенте? Ножи, подставки, сито и многое другое в магазине Chinbozor!">
+<meta property="og:image" content="https://chinbozor.uz/favicon.png">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="chinbozor.uz">
+<meta property="twitter:url" content="https://chinbozor.uz">
+<meta name="twitter:title" content="Купить кухонный набор и аксессуары в Ташкенте | Сhinbozor.uz">
+<meta name="twitter:description" content="Хотите подарить или купить кухонный набор или аксессуары для кухни в Ташкенте? Ножи, подставки, сито и многое другое в магазине Chinbozor!">
+<meta name="twitter:image" content="https://chinbozor.uz/favicon.png">
